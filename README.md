@@ -18,4 +18,4 @@ The muck-up includes six pages.
 <hr>
 
 Consider this is a sketch.. the high fidelity mock up is in progress. 
-![[lowFidelity-MockUp.png]]
+![lowFidelity-MockUp](https://github.com/Vented5/PawSeekers-UX-UI-Design/assets/52476295/8dc552f3-8c24-4cde-9eca-54a272867e43)
