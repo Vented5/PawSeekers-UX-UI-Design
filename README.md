@@ -18,4 +18,4 @@ The muck-up includes six pages.
 <hr>
 
 Consider this is a sketch.. the high fidelity mock up is in progress. 
-![[lowFidelity-MockUp.png]]
+![[lowFidelity-MockUp.jpg]]
