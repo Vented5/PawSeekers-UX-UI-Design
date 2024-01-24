@@ -7,15 +7,15 @@ Or using Ux-pin mirror by scanning the qr: <br>
 ![image](https://github.com/Vented5/PawSeekers-UX-UI-Design/assets/52476295/b771edb8-d0d4-4c26-a4d8-e6804a71c9ed)
 
 ### User authentication
-This module covers two pages of the design.. initializing session or creating an account. Its pretty much a ussual login. The interactions are restricted so you can only continue to the main page by filling the forrns.
+This module covers two pages of the design.. initializing session or creating an account. Its pretty much a ussual login. The interactions are restricted so you can only continue to the main page by filling the forrns.<br>
 ![image](https://github.com/Vented5/PawSeekers-UX-UI-Design/assets/52476295/7b5d8484-c27f-45a6-8ea7-1d44095094ca)
 
 ### Main page
-The main page of the application consist on the map. Where the user is appearing on the center and it shows the near missing pets reports. (This page can be improved... im still testing the interactions).
+The main page of the application consist on the map. Where the user is appearing on the center and it shows the near missing pets reports. (This page can be improved... im still testing the interactions).<br>
 ![image](https://github.com/Vented5/PawSeekers-UX-UI-Design/assets/52476295/ca9b2780-1234-4825-9fb2-5643ad994e39)
 
 ### Detailed report page
-Here is all the information of the missing pet. All its features and information of its sightings sorted in a single page, also some information of the user it belongs.(I want to include a map with a tracking of the sightings).
+Here is all the information of the missing pet. All its features and information of its sightings sorted in a single page, also some information of the user it belongs.(I want to include a map with a tracking of the sightings).<br>
 ![image](https://github.com/Vented5/PawSeekers-UX-UI-Design/assets/52476295/ce525687-bced-45ff-a4d0-e8f080049ede)
 
 ### Store
