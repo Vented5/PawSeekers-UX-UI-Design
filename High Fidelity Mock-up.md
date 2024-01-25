@@ -12,11 +12,11 @@ This module covers two pages of the design.. initializing session or creating an
 
 ### Main page
 The main page of the application consist on the map. Where the user is appearing on the center and it shows the near missing pets reports. (This page can be improved... im still testing the interactions).<br>
-![image](https://github.com/Vented5/PawSeekers-UX-UI-Design/assets/52476295/ca9b2780-1234-4825-9fb2-5643ad994e39)
+![image](https://github.com/Vented5/PawSeekers-UX-UI-Design/assets/52476295/4c76c258-e7b1-414a-9c73-1383f064148b)
 
 ### Detailed report page
 Here is all the information of the missing pet. All its features and information of its sightings sorted in a single page, also some information of the user it belongs.(I want to include a map with a tracking of the sightings).<br>
-![image](https://github.com/Vented5/PawSeekers-UX-UI-Design/assets/52476295/ce525687-bced-45ff-a4d0-e8f080049ede)
+![image](https://github.com/Vented5/PawSeekers-UX-UI-Design/assets/52476295/48469b37-d0e3-438a-8da1-15e9f13a9c98)
 
 ### Store
 Since the rubric requires the app to have an online store... i added a section to buy tracker collars for the  pets. In order to reduce the risk of getting lost. It is said that the best tool is the one you only use once right?... so once the users find their pets they can buy an "insurance" ;3.
