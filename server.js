@@ -55,7 +55,7 @@ app.post("/", async (req, res) =>{
 app.patch("/:id", async (req, res) =>{
     const query = { _id: new ObjectId(req.params.id)};
     const updates = {
-        $set: { "class": "Furro el grande" }
+        $set: { "class": req.body.class }
     };
     let collection = await db.collection("MessCollection");
     let result = await collection.updateOne(query, updates);
